@@ -13,7 +13,7 @@ Internet retail, also known as e-commerce, is the largest sector of the electron
 * Object Relational Mapping
 * Models
 
-# Installation
+# Installation/Use
 1. Clone the repository to your machine. 
 2. Download the node_modules - "npm i"
 3. Set up .env file at the root of the directory and create environmental variables. 
