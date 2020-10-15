@@ -17,9 +17,9 @@ Internet retail, also known as e-commerce, is the largest sector of the electron
 1. Clone the repository to your machine. 
 2. Download the node_modules - "npm i"
 3. Set up .env file at the root of the directory and create environmental variables. 
-* DB_NAME='<ecommerce_db>'
-* DB_USER='<user>'
-* DB_PW='<password>'
+* DB_NAME='< ecommerce_db >'
+* DB_USER='< user >'
+* DB_PW='< password >'
 
 # Links
 [Repository: https://github.com/layc41/e-commerce-back-end](https://github.com/layc41/e-commerce-back-end)
